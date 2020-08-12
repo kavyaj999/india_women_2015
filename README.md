@@ -27,3 +27,8 @@ Higher percentages of working women were paid in cash in the Southeast states co
 
 <iframe title="Working women who got paid in cash (%)" aria-label="map" id="datawrapper-chart-sD0Q3" src="https://datawrapper.dwcdn.net/sD0Q3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="765"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+Higher percentages of married women participated in household decisions in Central India compared to the North and South. 
+
+<iframe title="Married women who participated in household decisions (%)" aria-label="map" id="datawrapper-chart-4roWv" src="https://datawrapper.dwcdn.net/4roWv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="765"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
