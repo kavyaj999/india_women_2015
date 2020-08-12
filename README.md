@@ -44,5 +44,5 @@ After creating the choropleth maps I was able to continue my analysis of the dat
 </script>
 
 
-Based on these indicators, I can not make any conclusions on 2015-16 regional trends regarding women empowerment and gender violence. While both _participating in household decisions_ and _being paid in cash_ are indicators of women empowerment, the higher percentages were in different regions of India. Additionally, South India had higher percentages of _working women were paid in cash_ (an indicator of women empowerment) but also higher percentages of _spousal violence_ (indicator of gender violence). 
+Based on these indicators, I can not make any conclusions on 2015-16 regional trends regarding women empowerment and gender violence. While both __participating in household decisions__ and __being paid in cash__ are indicators of women empowerment, the higher percentages were in different regions of India. Additionally, South India had higher percentages of __working women were paid in cash__ (an indicator of women empowerment) but also higher percentages of __spousal violence__ (indicator of gender violence). 
 
