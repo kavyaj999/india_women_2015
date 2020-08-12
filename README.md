@@ -1,6 +1,6 @@
 # Data Analysis of Women Empowerment and Gender-Based Violence in India 2015-16
 
-Final Project by Srikavya Jawabnavis 
+### J124 Final Project by Srikavya Jawabnavis 
 
 The data I used was originally from a National Family Health Survey conducted by the Government of India, Ministry of Health and Family Welfare in 2015-16. The survey was conducted in correspondence with the International Institute of Population Sciences Information. The survey collected information from 601,509 households and 699,686 women.  
 
@@ -42,7 +42,6 @@ After creating the choropleth maps I was able to continue my analysis of the dat
 
 <iframe title="Married women who have experienced spousal violence (%)" aria-label="map" id="datawrapper-chart-4yNr5" src="https://datawrapper.dwcdn.net/4yNr5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="765"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
 
 
 Based on these indicators, I can not make any conclusions on 2015-16 regional trends regarding women empowerment and gender violence. While both _participating in household decisions_ and _being paid in cash_ are indicators of women empowerment, the higher percentages were in different regions of India. Additionally, South India had higher percentages of _working women were paid in cash_ (an indicator of women empowerment) but also higher percentages of _spousal violence_ (indicator of gender violence). 
