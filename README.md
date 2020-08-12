@@ -46,3 +46,24 @@ After creating the choropleth maps I was able to continue my analysis of the dat
 
 Based on these indicators, I can not make any conclusions on 2015-16 regional trends regarding women empowerment and gender violence. While both __participating in household decisions__ and __being paid in cash__ are indicators of women empowerment, the higher percentages were in different regions of India. Additionally, South India had higher percentages of __working women were paid in cash__ (an indicator of women empowerment) but also higher percentages of __spousal violence__ (indicator of gender violence). 
 
+### Updated .csv files: 
+1. [Married women who participated in household decisions (%)](https://github.com/kavyaj999/india_women_2015/blob/master/Indian%20Women%20Empowerment%202015%20-%20decisions.csv)
+2. [Working women who got paid in cash (%)](https://github.com/kavyaj999/india_women_2015/blob/master/Indian%20Women%20Empowerment%202015%20-%20cash.csv)
+3. [Married women who have experienced spousal violence (%)](https://github.com/kavyaj999/india_women_2015/blob/master/Indian%20Women%20Empowerment%202015%20-%20violence.csv) 
+4. [Married women who experienced violence during pregnancy (%)](https://github.com/kavyaj999/india_women_2015/blob/master/Indian%20Women%20Empowerment%202015%20-%20pregnancy.csv)
+5. [Women who own a house and/or land (%)](https://github.com/kavyaj999/india_women_2015/blob/master/Indian%20Women%20Empowerment%202015%20-%20house.csv)
+6. [Women who have their own bank/savings account (%)](https://github.com/kavyaj999/india_women_2015/blob/master/Indian%20Women%20Empowerment%202015%20-%20savings.csv) 
+7. [Women who have their own mobile phone (%)](https://github.com/kavyaj999/india_women_2015/blob/master/Indian%20Women%20Empowerment%202015%20-%20phone.csv) 
+8. [Women who use hygienic products during their menstrual period (%)](https://github.com/kavyaj999/india_women_2015/blob/master/Indian%20Women%20Empowerment%202015%20-%20hygiene.csv)
+
+### Links to all Choropleth Maps: 
+1. [Married women who participated in household decisions (%)](https://datawrapper.dwcdn.net/4roWv/1/)
+2. [Working women who got paid in cash (%)](https://datawrapper.dwcdn.net/sD0Q3/1/)
+3. [Married women who have experienced spousal violence (%)](https://datawrapper.dwcdn.net/4yNr5/1/) 
+4. [Married women who experienced violence during pregnancy (%)](https://datawrapper.dwcdn.net/Qyts6/1/)
+5. [Women who own a house and/or land (%)](https://datawrapper.dwcdn.net/vv2ZV/1/)
+6. [Women who have their own bank/savings account (%)](https://datawrapper.dwcdn.net/egPEO/1/) 
+7. [Women who have their own mobile phone (%)](https://datawrapper.dwcdn.net/ainlt/1/) 
+8. [Women who use hygienic products during their menstrual period (%)](https://datawrapper.dwcdn.net/SGCAa/1/)
+
+
